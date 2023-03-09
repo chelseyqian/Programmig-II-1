@@ -7,5 +7,5 @@ def main():
   except Exception as e:
     print("Error: ", e)
 
-if __name__ == "__mian__":
+if __name__ == "__main__":
   main()
