@@ -1,24 +1,28 @@
 from Cl702q import *
 
 def main():
-  vehicles = []
   try:
+    vehicles = []
+    nums = []
+    names = []
+    tire = []
+    others = []
     with open("Langdat/prog702q.txt", 'r') as f:
-      num = int(f.readline())
-      name = f.readline()
-      tires = int(f.readline())
-      while num != "":
+      for line in f:
+        num = int(line)
+        name = line
+        tires = int(line)
         if num == 1:
-          value = int(f.readline())
+          value = int(line)
           v = Car(name, tires, value)
           vehicles.append(v)
         elif num == 2:
-          miles = float(f.readline())
+          miles = int(line)
           value = int(50000 - miles * 0.25)
           v = Truck(name, tires, value, miles)
           vehicles.append(v)
         elif num == 3:
-          city = f.readline()
+          city = line
           v = Bus(name, tires, 50000, city)
           vehicles.append(v)
         num = int(f.readline())
