@@ -1,6 +1,6 @@
 def main():
   try:
-    with open("data/prog285b.dat", 'r') as f:
+    with open("Langdat/prog285b.dat", 'r') as f:
       for line in f:
         ldata = line.split(" ")
 
