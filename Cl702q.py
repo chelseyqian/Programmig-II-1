@@ -15,12 +15,20 @@ class Vehicle:
 
 
 class Car(Vehicle):
-  def __init__(self, name, tires, value, money):
+  def __init__(self, name, tires, value):
     super().__init__(name, tires, value)
-    self.money = money
 
 
 class Truck(Vehicle):
   def __init__(self, name, tires, value, miles):
     super().__init__(name, tires, value)
     self.miles = miles
+
+
+class Bus(Vehicle):
+  def __init__(self, name, tires, value, city):
+    super().__init__(name, tires, value)
+    self.city = city
+
+  def getCity(self):
+    return self.city
