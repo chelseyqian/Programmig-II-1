@@ -9,15 +9,15 @@ def main():
     others = []
     with open("Langdat/prog702q.txt", 'r') as f:
       for line in f:
-        num = int(line)
-        name = line
-        tires = int(line)
+        num = int(line.strip())
+        name = line.strip()
+        tires = int(line.strip())
         if num == 1:
-          value = int(line)
+          value = int(line.strip())
           v = Car(name, tires, value)
           vehicles.append(v)
         elif num == 2:
-          miles = int(line)
+          miles = int(line.strip())
           value = int(50000 - miles * 0.25)
           v = Truck(name, tires, value, miles)
           vehicles.append(v)
