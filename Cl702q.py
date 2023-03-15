@@ -18,11 +18,17 @@ class Car(Vehicle):
   def __init__(self, name, tires, value):
     super().__init__(name, tires, value)
 
+  def getCity(self):
+    return self.city
+
 
 class Truck(Vehicle):
   def __init__(self, name, tires, value, miles):
     super().__init__(name, tires, value)
     self.miles = miles
+
+  def getCity(self):
+    return self.city
 
 
 class Bus(Vehicle):

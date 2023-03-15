@@ -3,29 +3,27 @@ from Cl702q import *
 def main():
   try:
     vehicles = []
-    nums = []
-    names = []
-    tire = []
-    others = []
     with open("Langdat/prog702q.txt", 'r') as f:
       for line in f:
-        num = int(line.strip())
-        name = line.strip()
-        tires = int(line.strip())
+        vehicles.append(line)
+      for i in range(0, len(vehicles), 4):
+        num = vehicles[i]
+        name = vehicles[i+1]
+        tires = vehicles[i+2]
         if num == 1:
-          value = int(line.strip())
+          value = vehicles[i+3]
           v = Car(name, tires, value)
           vehicles.append(v)
         elif num == 2:
-          miles = int(line.strip())
+          miles = vehicles[i+3]
           value = int(50000 - miles * 0.25)
           v = Truck(name, tires, value, miles)
           vehicles.append(v)
         elif num == 3:
-          city = line
+          city = vehicles[i+3]
           v = Bus(name, tires, 50000, city)
           vehicles.append(v)
-        num = int(f.readline())
+        
 
     total = len(vehicles)
     totalValue = 0
@@ -37,19 +35,19 @@ def main():
     truckTire = 0
     busTire = 0
     for v in vehicles:
-      totalValue += v.getValue()
+      totalValue += v.value
       if isinstance(v, Car):
-        carTire += v.getTires()
-        carValue += v.getValue()
+        carTire += v.tires
+        carValue += v.value
       if isinstance(v, Truck):
-        truckTire += v.getTires()
+        truckTire += v.tires
         if v.getValue < leastValue:
-          leastValue = v.getValue()
-          leastTruck = v.getName()
+          leastValue = v.value
+          leastTruck = v.name
       if isinstance(v, Bus):
-        busTire += v.getTires()
-        if len(v.getCity()) > len(large):
-          large = v.getCity()
+        busTire += v.tires
+        if len(v.city) > len(large):
+          large = v.city
 
     print("Total number of vehicles is ", total)
     print("Total amount that the cars are worth is ", carValue)
