@@ -1,3 +1,6 @@
+import sys
+sys.setrecursionlimit(5000)
+
 def sumn(n):
   if n == 3:
     return 3
