@@ -1,15 +1,6 @@
 import random
 import numpy as np
 
-def maxMatrices(mat1, mat2):
-  rows = len(mat1)
-  cols = len(mat1[0])
-  mOut = np.empty((rows, cols), dtype = 'int')
-  for r in range(rows):
-    for c in range(cols):
-      mOut[r][c] = max(mat1[r][c], mat2[r][c])
-  return mOut
-
 def printMatrix(mat):
   for row in mat:
     for num in row:
@@ -24,21 +15,19 @@ def main():
     row2 = []
     for c in range(5):
       rnd1 = random.randint(-50, 99)
-      rnd2 = random.randint(-50, 99)
       row1.append(rnd1)
-      row2.append(rnd2)
+      row2.append(0)
     mat1.append(row1)
     mat2.append(row2)
+  for i in range(5):
+    for j in range(5):
+      mat2[j][i] = mat1[i][j]
 
-  print("Matrix 1:")
+  print("Original: ")
   printMatrix(mat1)
-  
-  print("Matrix 2:")
+
+  print("Transpose: ")
   printMatrix(mat2)
-  
-  mLargest = maxMatrices(mat1, mat2)
-  print("\nLargest Elements:")
-  printMatrix(mLargest)
 
 if __name__ == "__main__":
   main()
