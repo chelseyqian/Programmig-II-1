@@ -1,3 +1,7 @@
-n1 = int(input("Enter the first number: "))
-result = n1 * 1000000.0 / 7020000
-print(result)
+a = "iiiiiiiiiiiiii"
+i = 0
+while i < len(a):
+  i += 3
+  pass
+
+print(i)
