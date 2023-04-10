@@ -1,0 +1,13 @@
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg4792\Pg4792\bin\Debug\Pg4792.exe.config
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg4792\Pg4792\bin\Debug\Pg4792.exe
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg4792\Pg4792\bin\Debug\Pg4792.dll
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg4792\Pg4792\bin\Debug\IronPython.dll
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg4792\Pg4792\bin\Debug\IronPython.Modules.dll
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg4792\Pg4792\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg4792\Pg4792\bin\Debug\Microsoft.Scripting.dll
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg4792\Pg4792\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg4792\Pg4792\obj\Debug\Pg4792.pyprojResolveAssemblyReference.cache
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg4792\Pg4792\obj\Debug\Pg4792.Form1.resources
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg4792\Pg4792\obj\Debug\Pg4792.MainForm.resources
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg4792\Pg4792\obj\Debug\Pg4792.pyproj.GenerateResource.Cache
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg4792\Pg4792\obj\Debug\Pg4792.exe

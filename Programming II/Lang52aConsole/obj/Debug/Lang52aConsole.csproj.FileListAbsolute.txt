@@ -1,0 +1,6 @@
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang52aConsole\bin\Debug\Lang52aConsole.exe.config
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang52aConsole\bin\Debug\Lang52aConsole.exe
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang52aConsole\bin\Debug\Lang52aConsole.pdb
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang52aConsole\obj\Debug\Lang52aConsole.csprojResolveAssemblyReference.cache
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang52aConsole\obj\Debug\Lang52aConsole.exe
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang52aConsole\obj\Debug\Lang52aConsole.pdb

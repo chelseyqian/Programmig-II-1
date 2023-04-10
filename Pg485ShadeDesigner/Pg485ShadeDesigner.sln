@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "Pg485ShadeDesigner", "Pg485ShadeDesigner\Pg485ShadeDesigner.pyproj", "{85130E87-FFF8-4069-AA3A-F8E7C8E6AE02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85130E87-FFF8-4069-AA3A-F8E7C8E6AE02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85130E87-FFF8-4069-AA3A-F8E7C8E6AE02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85130E87-FFF8-4069-AA3A-F8E7C8E6AE02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85130E87-FFF8-4069-AA3A-F8E7C8E6AE02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

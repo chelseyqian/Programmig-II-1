@@ -1,0 +1,8 @@
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang54bForm\bin\Debug\Lang54bForm.exe.config
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang54bForm\bin\Debug\Lang54bForm.exe
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang54bForm\bin\Debug\Lang54bForm.pdb
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang54bForm\obj\Debug\Lang54bForm.Form1.resources
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang54bForm\obj\Debug\Lang54bForm.Properties.Resources.resources
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang54bForm\obj\Debug\Lang54bForm.csproj.GenerateResource.Cache
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang54bForm\obj\Debug\Lang54bForm.exe
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang54bForm\obj\Debug\Lang54bForm.pdb

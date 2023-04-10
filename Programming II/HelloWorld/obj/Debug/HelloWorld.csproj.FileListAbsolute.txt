@@ -1,0 +1,9 @@
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\HelloWorld\obj\Debug\HelloWorld.pdb

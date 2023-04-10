@@ -1,0 +1,9 @@
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang54a\bin\Debug\Lang54a.exe.config
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang54a\bin\Debug\Lang54a.exe
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang54a\bin\Debug\Lang54a.pdb
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang54a\obj\Debug\Lang54a.csprojResolveAssemblyReference.cache
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang54a\obj\Debug\Lang54a.Form1.resources
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang54a\obj\Debug\Lang54a.Properties.Resources.resources
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang54a\obj\Debug\Lang54a.csproj.GenerateResource.Cache
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang54a\obj\Debug\Lang54a.exe
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang54a\obj\Debug\Lang54a.pdb

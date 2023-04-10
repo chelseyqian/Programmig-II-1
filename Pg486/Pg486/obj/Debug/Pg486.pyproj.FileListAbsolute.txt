@@ -1,0 +1,15 @@
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg486\Pg486\bin\Debug\Pg486.exe.config
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg486\Pg486\bin\Debug\Pg486.exe
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg486\Pg486\bin\Debug\Pg486.dll
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg486\Pg486\bin\Debug\IronPython.dll
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg486\Pg486\bin\Debug\IronPython.Modules.dll
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg486\Pg486\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg486\Pg486\bin\Debug\Microsoft.Scripting.dll
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg486\Pg486\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg486\Pg486\obj\Debug\Pg486.pyprojResolveAssemblyReference.cache
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg486\Pg486\obj\Debug\Pg486.MainForm.resources
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg486\Pg486\obj\Debug\Pg486.Mercury.resources
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg486\Pg486\obj\Debug\Pg486.pyproj.GenerateResource.Cache
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg486\Pg486\obj\Debug\Pg486.exe
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg486\Pg486\obj\Debug\Pg486.Mars.resources
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg486\Pg486\obj\Debug\Pg486.Pluto.resources

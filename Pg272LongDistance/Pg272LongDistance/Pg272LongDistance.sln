@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "Pg272LongDistance", "Pg272LongDistance.pyproj", "{820EEDA4-88BC-4D46-9E42-29A4439BEC0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{820EEDA4-88BC-4D46-9E42-29A4439BEC0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{820EEDA4-88BC-4D46-9E42-29A4439BEC0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820EEDA4-88BC-4D46-9E42-29A4439BEC0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{820EEDA4-88BC-4D46-9E42-29A4439BEC0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

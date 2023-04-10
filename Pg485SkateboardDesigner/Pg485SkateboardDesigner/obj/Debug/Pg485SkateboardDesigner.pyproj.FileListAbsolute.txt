@@ -1,0 +1,12 @@
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg485SkateboardDesigner\Pg485SkateboardDesigner\bin\Debug\Pg485SkateboardDesigner.exe.config
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg485SkateboardDesigner\Pg485SkateboardDesigner\bin\Debug\Pg485SkateboardDesigner.exe
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg485SkateboardDesigner\Pg485SkateboardDesigner\bin\Debug\Pg485SkateboardDesigner.dll
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg485SkateboardDesigner\Pg485SkateboardDesigner\bin\Debug\IronPython.dll
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg485SkateboardDesigner\Pg485SkateboardDesigner\bin\Debug\IronPython.Modules.dll
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg485SkateboardDesigner\Pg485SkateboardDesigner\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg485SkateboardDesigner\Pg485SkateboardDesigner\bin\Debug\Microsoft.Scripting.dll
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg485SkateboardDesigner\Pg485SkateboardDesigner\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg485SkateboardDesigner\Pg485SkateboardDesigner\obj\Debug\Pg485SkateboardDesigner.pyprojResolveAssemblyReference.cache
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg485SkateboardDesigner\Pg485SkateboardDesigner\obj\Debug\Pg485SkateboardDesigner.MainForm.resources
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg485SkateboardDesigner\Pg485SkateboardDesigner\obj\Debug\Pg485SkateboardDesigner.pyproj.GenerateResource.Cache
+C:\Users\qian.y1\Desktop\Programming-II-1\Pg485SkateboardDesigner\Pg485SkateboardDesigner\obj\Debug\Pg485SkateboardDesigner.exe

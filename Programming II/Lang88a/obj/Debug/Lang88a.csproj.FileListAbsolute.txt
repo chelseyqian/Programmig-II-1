@@ -1,0 +1,9 @@
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang88a\bin\Debug\Lang88a.exe.config
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang88a\bin\Debug\Lang88a.exe
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang88a\bin\Debug\Lang88a.pdb
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang88a\obj\Debug\Lang88a.csprojResolveAssemblyReference.cache
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang88a\obj\Debug\Lang88a.Form1.resources
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang88a\obj\Debug\Lang88a.Properties.Resources.resources
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang88a\obj\Debug\Lang88a.csproj.GenerateResource.Cache
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang88a\obj\Debug\Lang88a.exe
+C:\Users\qian.y1\Desktop\Programming-II-1\Programming II\Lang88a\obj\Debug\Lang88a.pdb
