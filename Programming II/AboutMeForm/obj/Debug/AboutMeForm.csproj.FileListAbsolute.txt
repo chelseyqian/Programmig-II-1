@@ -1,0 +1,9 @@
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\AboutMeForm\bin\Debug\AboutMeForm.exe.config
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\AboutMeForm\bin\Debug\AboutMeForm.exe
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\AboutMeForm\bin\Debug\AboutMeForm.pdb
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\AboutMeForm\obj\Debug\AboutMeForm.csprojResolveAssemblyReference.cache
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\AboutMeForm\obj\Debug\AboutMeForm.Form1.resources
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\AboutMeForm\obj\Debug\AboutMeForm.Properties.Resources.resources
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\AboutMeForm\obj\Debug\AboutMeForm.csproj.GenerateResource.Cache
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\AboutMeForm\obj\Debug\AboutMeForm.exe
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\AboutMeForm\obj\Debug\AboutMeForm.pdb
