@@ -19,8 +19,11 @@ namespace Lang85cForm
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int num = int.Parse(textBox1.Text);
-
+            int n1 = int.Parse(textBox1.Text);
+            int n2 = n1 - 165;
+            double div = Math.Round(n2 / 100.0, 2);
+            int month = n2 % 100;
+            
         }
     }
 }
