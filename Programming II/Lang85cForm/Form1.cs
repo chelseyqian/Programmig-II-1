@@ -21,9 +21,20 @@ namespace Lang85cForm
         {
             int n1 = int.Parse(textBox1.Text);
             int n2 = n1 - 165;
-            double div = Math.Round(n2 / 100.0, 2);
-            int month = n2 % 100;
-            
+            int day = n2 % 100;
+            int month = (n2 - day) / 100;
+
+            label11.Text = month.ToString() + "/" + day.ToString();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            label11.Text = "";
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
