@@ -27,7 +27,19 @@ namespace Lang88a
             int product = n1 * n2;
             double ave = sum / 2.0;
             int distance = Math.Abs(n1 - n2);
-            int max = Math.Max(n1, n2);
+            int max = 0;
+            int min = 0;
+
+            if (n1 > n2)
+            {
+                max = n1;
+                min = n2;
+            }
+            else
+            {
+                max = n2;
+                min = n1;
+            }
 
             label9.Text = sum.ToString();
             label10.Text = diff.ToString();
@@ -35,6 +47,7 @@ namespace Lang88a
             label12.Text = ave.ToString();
             label13.Text = distance.ToString();
             label14.Text = max.ToString();
+            label16.Text = min.ToString();
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -45,6 +58,7 @@ namespace Lang88a
             label12.Text = "";
             label13.Text = "";
             label14.Text = "";
+            label16.Text = "";
         }
 
         private void button3_Click(object sender, EventArgs e)
