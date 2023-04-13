@@ -1,0 +1,9 @@
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg266LargeSmall\bin\Debug\Pg266LargeSmall.exe.config
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg266LargeSmall\bin\Debug\Pg266LargeSmall.exe
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg266LargeSmall\bin\Debug\Pg266LargeSmall.pdb
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.csprojResolveAssemblyReference.cache
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.Form1.resources
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.Properties.Resources.resources
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.csproj.GenerateResource.Cache
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.exe
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.pdb
