@@ -1,0 +1,9 @@
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg535CatchMe\bin\Debug\Pg535CatchMe.exe.config
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg535CatchMe\bin\Debug\Pg535CatchMe.exe
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg535CatchMe\bin\Debug\Pg535CatchMe.pdb
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg535CatchMe\obj\Debug\Pg535CatchMe.csprojResolveAssemblyReference.cache
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg535CatchMe\obj\Debug\Pg535CatchMe.Form1.resources
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg535CatchMe\obj\Debug\Pg535CatchMe.Properties.Resources.resources
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg535CatchMe\obj\Debug\Pg535CatchMe.csproj.GenerateResource.Cache
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg535CatchMe\obj\Debug\Pg535CatchMe.exe
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg535CatchMe\obj\Debug\Pg535CatchMe.pdb
