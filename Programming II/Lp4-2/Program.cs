@@ -36,6 +36,7 @@ namespace Lp4_2
             {
                 Console.WriteLine("Package is okay.");
             }
+            Console.ReadLine();
         }
     }
 }
