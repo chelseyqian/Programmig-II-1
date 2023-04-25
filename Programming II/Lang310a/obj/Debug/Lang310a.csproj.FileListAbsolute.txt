@@ -1,0 +1,9 @@
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Lang310a\bin\Debug\Lang310a.exe.config
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Lang310a\bin\Debug\Lang310a.exe
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Lang310a\bin\Debug\Lang310a.pdb
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Lang310a\obj\Debug\Lang310a.csprojResolveAssemblyReference.cache
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Lang310a\obj\Debug\Lang310a.Form1.resources
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Lang310a\obj\Debug\Lang310a.Properties.Resources.resources
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Lang310a\obj\Debug\Lang310a.csproj.GenerateResource.Cache
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Lang310a\obj\Debug\Lang310a.exe
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Lang310a\obj\Debug\Lang310a.pdb
