@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Microsoft.VisualBasic;
 
 namespace Pg347Sum
 {
@@ -19,27 +20,26 @@ namespace Pg347Sum
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int num = int.Parse(textBox1.Text);
-            int sum = 0;
+            int num = int.Parse(Interaction.InputBox("Enter a number: "));
             if (num <= 0)
             {
-                label2.Text = "The number is invalid";
-            } else {
+                MessageBox.Show("The number is invalid");
+            }
+            else
+            {
+                int sum = 0;
                 for (int i = 1; i <= num; i++) {
                     sum += i;
                 }
-                label2.Text = "The sum is " + sum.ToString();
+                MessageBox.Show("The sum is " + sum);
             }
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            label2.Text = "";
-        }
-
-        private void button3_Click(object sender, EventArgs e)
-        {
             Application.Exit();
         }
+
+        
     }
 }

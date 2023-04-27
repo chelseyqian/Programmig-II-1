@@ -6,3 +6,4 @@ C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg347Sum\obj\De
 C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg347Sum\obj\Debug\Pg347Sum.csproj.GenerateResource.Cache
 C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg347Sum\obj\Debug\Pg347Sum.exe
 C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg347Sum\obj\Debug\Pg347Sum.pdb
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg347Sum\obj\Debug\Pg347Sum.csprojResolveAssemblyReference.cache
