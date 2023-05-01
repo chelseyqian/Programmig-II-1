@@ -17,10 +17,10 @@ namespace Lang54cConsole
             Console.Write("Choose an option: add, sub, mul, or div");
             string op = Console.ReadLine();
 
-            if (op == "add") result = n1 + n2;
-            else if (op == "sub") result = n1 - n2;
-            else if (op == "mul") result = n1 * n2;
-            else if (op == "div") result = n1 / n2;
+            if (op == "add") result = add(n1, n2);
+            else if (op == "sub") result = sub(n1, n2);
+            else if (op == "mul") result = mul(n1, n2);
+            else if (op == "div") result = div(n1, n2);
             Console.WriteLine("Result: " + result);
  
             wait();
