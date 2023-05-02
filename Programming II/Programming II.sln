@@ -53,6 +53,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lang122d", "Lang122d\Lang12
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcWithFunctions", "CalcWithFunctions\CalcWithFunctions.csproj", "{5ABDA397-CC75-4982-AD50-B3633248FFC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lang366b", "Lang366b\Lang366b.csproj", "{D02D24D2-EB7D-424E-9D45-BF33C467196C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -159,6 +161,10 @@ Global
 		{5ABDA397-CC75-4982-AD50-B3633248FFC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5ABDA397-CC75-4982-AD50-B3633248FFC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5ABDA397-CC75-4982-AD50-B3633248FFC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D02D24D2-EB7D-424E-9D45-BF33C467196C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D02D24D2-EB7D-424E-9D45-BF33C467196C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D02D24D2-EB7D-424E-9D45-BF33C467196C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D02D24D2-EB7D-424E-9D45-BF33C467196C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
