@@ -1,0 +1,10 @@
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg435TicketSale\bin\Debug\Pg435TicketSale.exe.config
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg435TicketSale\bin\Debug\Pg435TicketSale.exe
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg435TicketSale\bin\Debug\Pg435TicketSale.pdb
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg435TicketSale\obj\Debug\Pg435TicketSale.Form1.resources
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg435TicketSale\obj\Debug\Pg435TicketSale.GeneralForm.resources
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg435TicketSale\obj\Debug\Pg435TicketSale.Properties.Resources.resources
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg435TicketSale\obj\Debug\Pg435TicketSale.StudentForm.resources
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg435TicketSale\obj\Debug\Pg435TicketSale.csproj.GenerateResource.Cache
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg435TicketSale\obj\Debug\Pg435TicketSale.exe
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg435TicketSale\obj\Debug\Pg435TicketSale.pdb
