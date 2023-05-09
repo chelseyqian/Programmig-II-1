@@ -26,9 +26,9 @@ namespace StrInterview16
 
             if (sLen > tLen) return false;
 
-            for (int lcv = 0; lcv < tLen - sLen; lcv++)
+            for (int lcv = 0; lcv <= tLen - sLen; lcv++)
             {
-                if (text.Substring(lcv, lcv + sLen) == search)
+                if (text.Substring(lcv, sLen) == search)
                 {
                     return true;
                 }
