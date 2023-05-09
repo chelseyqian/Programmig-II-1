@@ -57,6 +57,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lang366b", "Lang366b\Lang36
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg435TicketSale", "Pg435TicketSale\Pg435TicketSale.csproj", "{52B43988-0B8D-4F08-AAE9-1DC693C36C0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrInterview7", "StrInterview7\StrInterview7.csproj", "{C89B63D5-A87F-4CF9-9D29-F1AE70ABDDC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrInterview16", "StrInterview16\StrInterview16.csproj", "{520A69C3-7317-4E97-B344-C5F9E0AFE496}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +175,14 @@ Global
 		{52B43988-0B8D-4F08-AAE9-1DC693C36C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52B43988-0B8D-4F08-AAE9-1DC693C36C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52B43988-0B8D-4F08-AAE9-1DC693C36C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C89B63D5-A87F-4CF9-9D29-F1AE70ABDDC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C89B63D5-A87F-4CF9-9D29-F1AE70ABDDC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C89B63D5-A87F-4CF9-9D29-F1AE70ABDDC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C89B63D5-A87F-4CF9-9D29-F1AE70ABDDC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{520A69C3-7317-4E97-B344-C5F9E0AFE496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{520A69C3-7317-4E97-B344-C5F9E0AFE496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{520A69C3-7317-4E97-B344-C5F9E0AFE496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{520A69C3-7317-4E97-B344-C5F9E0AFE496}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
