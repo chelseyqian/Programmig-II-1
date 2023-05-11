@@ -1,0 +1,9 @@
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg334LoanCalculator\bin\Debug\Pg334LoanCalculator.exe.config
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg334LoanCalculator\bin\Debug\Pg334LoanCalculator.exe
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg334LoanCalculator\bin\Debug\Pg334LoanCalculator.pdb
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.csprojResolveAssemblyReference.cache
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.Form1.resources
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.Properties.Resources.resources
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.csproj.GenerateResource.Cache
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.exe
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\Pg334LoanCalculator\obj\Debug\Pg334LoanCalculator.pdb

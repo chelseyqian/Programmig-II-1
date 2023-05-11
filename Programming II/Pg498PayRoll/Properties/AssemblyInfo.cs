@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Pg334LoanCalculator")]
+[assembly: AssemblyTitle("Pg498PayRoll")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Pg334LoanCalculator")]
+[assembly: AssemblyProduct("Pg498PayRoll")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("a29ce5f6-8bb2-4123-ae14-360456f1602c")]
+[assembly: Guid("8c080cd4-864a-47f7-adfb-92400e706dd7")]
 
 // Version information for an assembly consists of the following four values:
 //
