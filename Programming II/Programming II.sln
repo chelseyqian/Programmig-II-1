@@ -67,6 +67,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg514SalesData", "Pg514Sale
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg498PayRoll", "Pg498PayRoll\Pg498PayRoll.csproj", "{9F92E732-5791-46EE-809F-F53A3F2D8474}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrInterview8", "StrInterview8\StrInterview8.csproj", "{2A120344-1C7D-410E-B879-65B2820523B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrInterview18", "StrInterview18\StrInterview18.csproj", "{B6A9C905-BE42-442F-B227-4359B13191E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +205,14 @@ Global
 		{9F92E732-5791-46EE-809F-F53A3F2D8474}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F92E732-5791-46EE-809F-F53A3F2D8474}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F92E732-5791-46EE-809F-F53A3F2D8474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A120344-1C7D-410E-B879-65B2820523B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A120344-1C7D-410E-B879-65B2820523B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A120344-1C7D-410E-B879-65B2820523B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A120344-1C7D-410E-B879-65B2820523B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6A9C905-BE42-442F-B227-4359B13191E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A9C905-BE42-442F-B227-4359B13191E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A9C905-BE42-442F-B227-4359B13191E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A9C905-BE42-442F-B227-4359B13191E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

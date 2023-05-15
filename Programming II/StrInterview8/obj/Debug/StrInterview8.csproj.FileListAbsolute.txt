@@ -1,0 +1,6 @@
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\StrInterview8\bin\Debug\StrInterview8.exe.config
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\StrInterview8\bin\Debug\StrInterview8.exe
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\StrInterview8\bin\Debug\StrInterview8.pdb
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\StrInterview8\obj\Debug\StrInterview8.csprojResolveAssemblyReference.cache
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\StrInterview8\obj\Debug\StrInterview8.exe
+C:\Users\qian.y1\Documents\GitHub\Programmig-II-1\Programming II\StrInterview8\obj\Debug\StrInterview8.pdb
